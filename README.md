@@ -6,12 +6,15 @@ A simple iPad/iPhone/Mac app giving you a set of labeled countdown timers.
 ## Screenshots:
 
 **Timers** on iPod Touch running iOS 9
+
 ![iPod Touch iOS 9](Art/iPodTouch9.png) 
 
 **Timers** on iPad running iOS 15
+
 ![iPad iOS 15](Art/iPad15.png) 
 
 **Timers** on Mac running macOS Monterey (12.5) 
+
 ![macOS 12](Art/Mac.png)
 
 ## How to Build
